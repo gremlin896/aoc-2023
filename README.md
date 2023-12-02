@@ -4,8 +4,6 @@ https://adventofcode.com/2023
 
 https://github.com/nrwl/ts-aoc-starter/
 
-
-
 ## Running the Puzzles
 
 Copy and paste the sample data given in the problem into the `day-X-a.sample-data.txt` file.
